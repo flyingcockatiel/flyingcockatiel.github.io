@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Focal Length &amp; Perspective</title>
+<style>
+* {
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+    }
+
+body {
+font-family: Georgia, 'Times New Roman', serif;
+background-color: #fdf9ec;
+color: #333;
+min-height: 100vh;
+display: flex;
+flex-direction: column;
+align-items: center;
+text-align: center;
+padding: 3rem 2rem;
+    }
+
+h1 {
+font-size: 2.75rem;
+color: #4a3f1f;
+margin-bottom: 0.75rem;
+letter-spacing: 0.5px;
+    }
+
+.subtitle {
+font-size: 1.15rem;
+color: #7a6f4d;
+margin-bottom: 3rem;
+font-style: italic;
+    }
+
+section {
+max-width: 640px;
+margin-bottom: 3rem;
+background: #fffdf5;
+border: 1px solid #e8e0c5;
+border-radius: 8px;
+padding: 2rem;
+box-shadow: 0 2px 6px rgba(74, 63, 31, 0.06);
+    }
+
+section h2 {
+font-size: 1.5rem;
+color: #4a3f1f;
+margin-bottom: 0.5rem;
+    }
+
+section .part-label {
+display: block;
+font-size: 0.8rem;
+text-transform: uppercase;
+letter-spacing: 2px;
+color: #a89d78;
+margin-bottom: 0.5rem;
+    }
+
+section p {
+line-height: 1.7;
+font-size: 1.05rem;
+color: #555;
+    }
+
+section .demo {
+margin-top: 1.5rem;
+max-width: 100%;
+border-radius: 6px;
+border: 1px solid #e8e0c5;
+    }
+
+.compare {
+display: flex;
+gap: 1rem;
+margin-top: 1.5rem;
+justify-content: center;
+flex-wrap: wrap;
+    }
+
+.compare figure {
+flex: 1;
+min-width: 200px;
+    }
+
+.compare img {
+width: 100%;
+border-radius: 6px;
+border: 1px solid #e8e0c5;
+    }
+
+.compare figcaption {
+margin-top: 0.5rem;
+font-size: 0.9rem;
+font-style: italic;
+color: #7a6f4d;
+    }
+
+footer {
+margin-top: 1rem;
+font-size: 0.85rem;
+color: #a89d78;
+    }
+</style>
+</head>
+<body>
+
+<h1>Focal Length &amp; Perspective</h1>
+<p class="subtitle">Three ways distance changes how we see</p>
+
+<section>
+<span class="part-label">Part 1</span>
+<h2>Selfie: The Wrong Way vs. The Right Way</h2>
+<p>Being farther away is akin to an orthographic projection - less distortion due to perspective</p>
+<div class="compare">
+<figure>
+<img src="Selfie1.jpeg" alt="Close">
+<figcaption>The wrong way — camera too close</figcaption>
+</figure>
+<figure>
+<img src="Selfie2.jpeg" alt="Far">
+<figcaption>The right way — step back and zoom</figcaption>
+</figure>
+</div>
+</section>
+
+<section>
+<span class="part-label">Part 2</span>
+<h2>Architectural Perspective Compression</h2>
+<p>Having zoomed in photo means physically less pixels for the same amount of space to be photographed</p>
+<div class="compare">
+<figure>
+<img src="a.jpeg" alt="zoom">
+<figcaption>zoomed</figcaption>
+</figure>
+<figure>
+<img src="b.jpeg" alt="close">
+<figcaption>close</figcaption>
+</figure>
+</div>
+</section>
+
+<section>
+<span class="part-label">Part 3</span>
+<h2>The Dolly Zoom</h2>
+
+<img class="demo" src="dolly.gif" alt="8-frame dolly zoom demonstration">
+</section>
+
+<footer>&copy; 2026 Your Name</footer>
+
+</body>
+</html>

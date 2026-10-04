@@ -1,0 +1,22 @@
+All images are from Wikimedia Commons, downloaded at 960 px wide.
+
+lincoln.jpg     Abraham Lincoln, Alexander Gardner, 1863. Public domain.
+                https://commons.wikimedia.org/wiki/File:Abraham_Lincoln_O-77_matte_collodion_print.jpg
+washington.jpg  George Washington (Williamstown Portrait), Gilbert Stuart. Public domain.
+                https://commons.wikimedia.org/wiki/File:Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg
+monalisa.jpg    Mona Lisa, Leonardo da Vinci. Public domain.
+                https://commons.wikimedia.org/wiki/File:Mona_Lisa,_by_Leonardo_da_Vinci,_from_C2RMF_retouched.jpg
+pearl.jpg       Girl with a Pearl Earring, Johannes Vermeer. Public domain.
+                https://commons.wikimedia.org/wiki/File:Girl_with_a_Pearl_Earring.jpg
+earth.jpg       The Earth seen from Apollo 17, NASA. Public domain.
+                https://commons.wikimedia.org/wiki/File:The_Earth_seen_from_Apollo_17.jpg
+moon.jpg        Full moon, Gregory H. Revera. CC BY-SA 3.0.
+                https://commons.wikimedia.org/wiki/File:FullMoon2010.jpg
+eye.jpg         Eye, William Warby. CC BY 2.0.
+                https://commons.wikimedia.org/wiki/File:Eye_(11774111985).jpg
+palm.jpg        Boy's palm, Jiajitan. CC0.
+                https://commons.wikimedia.org/wiki/File:Boys_palm_%E6%89%8B%E6%8E%8C_%E6%89%8B%E6%9D%BF%E5%BF%83.png
+oldtown.jpg     Caceres old town 2011, Adbar. CC BY-SA 3.0.
+                https://commons.wikimedia.org/wiki/File:C%C3%A1ceres_old_town_2011.jpg
+feather.jpg     Peacock feather close up, Daiju Azuma. CC BY-SA 3.0.
+                https://commons.wikimedia.org/wiki/File:Peacock_Feather_Close_Up_(201385355).jpeg
